@@ -4,5 +4,5 @@ position = 0
 for position, score in enumerate(score, start=1):
     if your_score > score:
         break
-print("Your position is:", position)
+print(f"Your position is: {position}")
    
